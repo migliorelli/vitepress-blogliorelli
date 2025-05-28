@@ -1,0 +1,25 @@
+{
+  "name": "miglioblog",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@shikijs/vitepress-twoslash": "^3.4.2",
+    "@types/fs-extra": "^11.0.4",
+    "@types/node": "^22.15.23",
+    "dayjs": "^1.11.13",
+    "fs-extra": "^11.3.0",
+    "globby": "^14.1.0",
+    "gray-matter": "^4.0.3",
+    "vitepress": "^1.6.3",
+    "vue": "^3.5.15"
+  },
+  "scripts": {
+    "dev": "vitepress dev blog",
+    "build": "vitepress build blog",
+    "preview": "vitepress preview blog"
+  },
+  "dependencies": {
+    "canvas-confetti": "^1.9.3"
+  }
+}
