@@ -76,7 +76,7 @@ After cloning the theme and navigating to the folder, you can install the depend
 yarn install
 yarn dev
 ```
-This will start the local development server. Open your browser and go to http://localhost:5173 (or the port shown in your terminal) to see your blog in action.
+This will start the local development server. Open your browser and go to `http://localhost:5173` (or the port shown in your terminal) to see your blog in action.
 
 ### Customizing the theme
 
