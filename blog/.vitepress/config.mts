@@ -9,6 +9,9 @@ export default defineConfigWithTheme<BlogliorelliTheme>({
   description: "Migliorelli's blog",
   cleanUrls: true,
   lastUpdated: true,
+  sitemap: {
+    hostname: "https://blog.migliorelli.dev",
+  },
   themeConfig: {
     // blogliorelli theme config
     cursorOffset: 10,
