@@ -404,11 +404,10 @@ yarn docs:build
 
 The output will be in the `.vitepress/dist` folder. You can deploy this folder to any static hosting provider, like Vercel, Netlify, GitHub Pages, or your own server.
 
-### Final thoughts
+## Final thoughts
 
 Vitepress is a powerful and flexible tool for building documentation sites, blogs, and more. With its simple structure, Markdown support, and the ability to fully customize the theme with Vue and CSS, you can create a site that looks and works exactly how you want.
 
 If you want to go further, check out the [Vitepress documentation](https://vitepress.dev/), explore community themes, or dive into advanced features like custom plugins, search, and more.
 
-Happy writing!
-
+Por hoje é só.

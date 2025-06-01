@@ -6,6 +6,8 @@ tags:
   - Personal
 ---
 
+<Confetti />
+
 # Welcome to my Blogliorelli! 🎉
 
 Hi, I'm Miguel Migliorelli and this is my personal blog where I share thoughts, experiences and learnings about software development, technology and other topics that interest me. 
@@ -21,5 +23,3 @@ Hi, I'm Miguel Migliorelli and this is my personal blog where I share thoughts, 
 ## Get in touch
 
 Feel free to interact through the ~~comments~~ (I swear I will implement) on the posts or find me on [GitHub](https://github.com/migliorelli).
-
-<Confetti />
