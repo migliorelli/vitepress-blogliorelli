@@ -79,8 +79,6 @@ app.get("/beta-feature", async (req, res) => {
 
 ## Learn More
 
-For detailed documentation and source code, visit the [Trunker GitHub repository](https://github.com/migliorelli/trunker).
-
-Feel free to contribute, report issues, or suggest enhancements!
+For detailed documentation and source code, visit the [Trunker GitHub repository](https://github.com/migliorelli/trunker).Feel free to contribute, report issues, or suggest enhancements!
 
 Por hoje é só.
