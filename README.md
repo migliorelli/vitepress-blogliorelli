@@ -2,6 +2,8 @@
 
 A clean and minimalist VitePress theme for blogs with tag support.
 
+You can preview the theme [here](https://blog.migliorelli.dev/).
+
 ## Features
 
 - Fully customizable
