@@ -60,9 +60,7 @@ In this example:
 - `betaFeature1` is a **static** flag set to true.
 - `betaFeature2` is an **asynchronous** flag that determines access based on user data.
 
-The *feature flag* can be **static** or **asynchronous**. If the flag is **static**, it will be evaluated immediately and if it's **asynchronous**, it will be evaluated when the request is made.
-
-The method `trunker.restrict` accepts either a `string` or an `array` of strings.
+The *feature flag* can be **static** or **asynchronous**. If the flag is **static**, it will be evaluated immediately and if it's **asynchronous**, it will be evaluated when the request is made. The method `trunker.restrict` accepts either a `string` or an `array` of strings.
 
 You can also manually check if a *feature flag* is active:
 
