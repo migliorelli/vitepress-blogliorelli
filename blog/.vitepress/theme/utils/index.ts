@@ -16,7 +16,7 @@ export async function getPosts(): Promise<Post[]> {
         data.date = data.date.toISOString();
       }
 
-      const regularPath = `/${item.replace(".md", ".html").replace("blog/", "")}`;
+      const regularPath = `/${item.replace(".md", "").replace("blog/", "")}`;
       return { data, regularPath } as Post;
     })
   );
